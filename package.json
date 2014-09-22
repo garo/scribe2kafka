@@ -1,0 +1,16 @@
+{
+  "name": "scribe2kafka",
+  "description": "Scribe to kafka",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Applifier/scribe2kafka"
+  },
+  "dependencies": {
+    "thrift" : "0.7.0",
+    "scribe" : "*",
+    "kafka-node" : "0.2.9",
+    "statsd-client": "0.0.10"
+  },
+  "author": "Applifier <opensource@applifier.com>"
+}
