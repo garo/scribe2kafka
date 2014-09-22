@@ -10,7 +10,8 @@
     "thrift" : "0.7.0",
     "scribe" : "*",
     "kafka-node" : "0.2.9",
-    "statsd-client": "0.0.10"
+    "statsd-client": "0.0.10",
+    "optimist" : "0.6.0"
   },
   "author": "Applifier <opensource@applifier.com>"
 }
